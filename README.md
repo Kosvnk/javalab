@@ -1,1 +1,3 @@
-# kosinov-vladyslav
+# JavaLab project
+Kosinov Vladyslav
+Java practice showspace
